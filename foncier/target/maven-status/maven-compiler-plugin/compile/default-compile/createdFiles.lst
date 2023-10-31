@@ -1,0 +1,8 @@
+com\interfaces\Coordonneeinterface.class
+com\gestionterre\Terre.class
+com\modele\Terrerepository.class
+com\foncier\App.class
+com\modele\Coordonnerepository.class
+com\gestionterre\Coordonnee.class
+com\gestionexception\ExceptionPersonnalise.class
+com\interfaces\Terreinterface.class

@@ -1,0 +1,11 @@
+com\interfaces\Coordonneeinterface.class
+com\gestionterre\Terre.class
+com\gestionsante\Personne.class
+com\cin\App.class
+com\gestionEjb\Transfert.class
+com\interfaces\Transactioninterface.class
+com\gestionargent\Transaction.class
+com\gestionterre\Coordonnee.class
+com\gestionsante\Personne$1.class
+com\interfaces\Terreinterface.class
+com\gestionwebservice\Transfertwebservice.class
